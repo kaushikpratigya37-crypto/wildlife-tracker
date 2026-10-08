@@ -167,8 +167,15 @@ Text           → Moonlight white
 ---
 
 ## 📷 Dashboard Preview
+-->>>>>>>>>>>>>
+<div align=center>
+<img width="712" height="406" alt="Screenshot 2026-10-08 224010" src="https://github.com/user-attachments/assets/8ae08a0f-710b-4997-a6c0-c77e15b6f7bb" />
+<img width="941" height="433" alt="Screenshot 2026-10-08 224029" src="https://github.com/user-attachments/assets/86292d11-ae39-4c89-80ec-d41b10a21d32" />
+<img width="922" height="409" alt="Screenshot 2026-10-08 224051" src="https://github.com/user-attachments/assets/96c3ad74-a544-44d9-bd5c-4925e757cb35" />
+<img width="937" height="422" alt="Screenshot 2026-10-08 224112" src="https://github.com/user-attachments/assets/9c57689d-c54f-42ab-b664-8d068040a6f9" />
+<img width="899" height="410" alt="Screenshot 2026-10-08 224138" src="https://github.com/user-attachments/assets/82429332-417e-4815-944d-c001f8286ddf" />
 
-> Add a screenshot or GIF after you build the dashboard.
+
 
 ```markdown
 <!-- Example:
