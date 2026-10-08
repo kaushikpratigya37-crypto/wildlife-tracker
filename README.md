@@ -1,2 +1,189 @@
-# wildlife-tracker
-Arduino UNO Q-based wildlife monitoring system using Python and OpenCV for real-time motion detection, automatic image capture, and intelligent camera monitoring.
+# 🦌 Wildlife Tracker
+
+<div align="center">
+
+### Intelligent Wildlife Monitoring Dashboard
+
+*Where computer vision, sensor intelligence, and real-time visualization meet.*
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=7DF9FF)
+![OpenCV](https://img.shields.io/badge/OpenCV-0B1020?style=for-the-badge&logo=opencv&logoColor=7DF9FF)
+![Arduino](https://img.shields.io/badge/Arduino-0B1020?style=for-the-badge&logo=arduino&logoColor=7DF9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=7DF9FF)
+![IoT](https://img.shields.io/badge/IoT-4C1D95?style=for-the-badge&logo=esphome&logoColor=FFFFFF)
+
+<br>
+
+![Status](https://img.shields.io/badge/Status-Prototype-7DF9FF?style=flat-square&labelColor=0B1020)
+![Focus](https://img.shields.io/badge/Focus-Wildlife%20Monitoring-C084FC?style=flat-square&labelColor=0B1020)
+![Interface](https://img.shields.io/badge/Interface-Live%20Dashboard-7DF9FF?style=flat-square&labelColor=0B1020)
+
+</div>
+
+---
+
+## 🌲 Overview
+
+**Wildlife Tracker** is an intelligent wildlife-monitoring dashboard that combines **computer vision**, **Arduino-based sensor data**, and a modern web interface. It is designed to transform raw sensor readings and camera input into a clear, real-time monitoring experience.
+
+The system brings motion detection, live visual feedback, camera orientation data, and environmental signals into one unified dashboard.
+
+> *Detect movement. Read the environment. Track wildlife intelligently.*
+
+---
+
+## ✨ Dashboard Experience
+
+The frontend is designed as an immersive monitoring interface inspired by night observation, wildlife surveillance, and real-time field intelligence.
+
+### 🎥 Live Vision Panel
+
+A dedicated area for displaying the live camera feed and motion-detection state.
+
+- Real-time visual monitoring
+- Motion alert status
+- Clear activity indicators
+- Quick observation interface
+
+### 📡 Sensor Intelligence Panel
+
+A sensor-focused view that turns hardware values into understandable visual information.
+
+- MPU6050 orientation data
+- Pitch, roll, and heading values
+- Live sensor-status indicators
+- Hardware-to-dashboard data flow
+
+### 📊 Motion Analytics
+
+A visualization space for monitoring movement over time.
+
+- Motion activity trends
+- Time-based charts
+- Detection patterns
+- Comparison of recent wildlife activity
+
+### 🧭 Orientation Radar
+
+A radar-inspired visual display for presenting the direction and orientation of the monitoring system.
+
+- Camera direction awareness
+- Pitch and roll tracking
+- Heading visualization
+- Sensor feedback beyond raw numbers
+
+---
+
+## 🖥️ Frontend Highlights
+
+```text
+✦ Dark surveillance-inspired interface
+✦ Glassmorphism-style dashboard cards
+✦ Neon cyan + aurora purple accent system
+✦ Real-time status indicators
+✦ Responsive layout for desktop and mobile
+✦ Interactive charts and sensor visuals
+✦ Smooth transitions and polished UI states
+✦ Clear hierarchy for fast monitoring
+```
+
+---
+
+## 🧩 Core Features
+
+| Feature | Description |
+|---|---|
+| 🎥 Live Camera Feed | Displays real-time visual monitoring output |
+| 🦌 Motion Detection | Detects movement using computer vision |
+| 📈 Motion Chart | Visualizes recent motion activity and trends |
+| 🧭 Sensor Radar | Represents direction and orientation data |
+| 📐 MPU6050 Tracking | Tracks pitch, roll, and heading values |
+| ⚡ Live Status | Shows the current system and detection state |
+| 📊 Smart Dashboard | Combines vision, sensor, and data insights in one interface |
+
+---
+
+## 🛠️ Technology Stack
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Dashboard UI** | Responsive layout, custom components, charts |
+| **Computer Vision** | Python, OpenCV |
+| **Hardware** | Arduino UNO Q, MPU6050 |
+| **Communication** | Sensor-data integration, serial / device workflow |
+
+---
+
+## 🧠 System Flow
+
+```text
+Camera Feed
+    ↓
+OpenCV Motion Detection
+    ↓
+Wildlife Tracker Dashboard
+    ↓
+Motion Charts + Alert Status
+
+MPU6050 Sensor
+    ↓
+Arduino UNO Q
+    ↓
+Pitch -  Roll -  Heading Data
+    ↓
+Sensor Panel + Orientation Radar
+```
+
+---
+
+## 🎨 Design Direction
+
+Wildlife Tracker uses a dark interface so important information remains visible during observation. Cyan represents active sensor signals, purple provides visual depth, and the visualizations turn raw hardware values into an understandable story.
+
+```text
+Background     → Deep forest / night black
+Active signal  → Electric cyan
+Sensor depth   → Aurora purple
+Alerts         → Warm amber or red
+Text           → Moonlight white
+```
+
+---
+
+## 🚀 Future Enhancements
+
+- [ ] Wildlife species classification
+- [ ] Motion-event image capture
+- [ ] Alert notifications for detected activity
+- [ ] Cloud database for activity history
+- [ ] Map-based monitoring view
+- [ ] Weather and environmental sensor integration
+- [ ] User authentication and role-based access
+- [ ] AI-powered wildlife behavior insights
+
+---
+
+## 📷 Dashboard Preview
+
+> Add a screenshot or GIF after you build the dashboard.
+
+```markdown
+<!-- Example:
+<div align="center">
+  <img src="./assets/wildlife-tracker-dashboard.png" width="90%" alt="Wildlife Tracker Dashboard Preview">
+</div>
+-->
+```
+
+---
+
+<div align="center">
+
+### 🌙 Wildlife Tracker — Observe Smarter. Protect Better.
+
+Built with curiosity, sensors, and code.
+
+</div>
